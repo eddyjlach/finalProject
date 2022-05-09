@@ -1,0 +1,9 @@
+
+User expiriience
+1) logs in with auth0
+2)redirect homepage (possibly with people they can follow)
+so i want to update the username and biop inside of the user after they sign in.
+
+monday:
+set up quill
+have the writinng page redirect to a sign in page if they have not put in their username or bio.
